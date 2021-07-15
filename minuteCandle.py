@@ -3,9 +3,9 @@ import time
 import pyupbit
 import datetime
 
-access = "bIQ17TlUSVILX0s5tOowdiAoxSWuJosT1DxYVQNd"          # 본인 값으로 변경
-secret = "x31ywPx6LtJueY2yP2ZIcG3ypB9a34erWnPAn7Ow" 
-myToken = "xoxb-2018501947909-2045383410448-9u3Jofj9z5Y3xqBs1n8udRek"
+access = ""          # 본인 값으로 변경
+secret = "" 
+myToken = ""
 
 url = "https://api.upbit.com/v1/candles/minutes/1"
 
